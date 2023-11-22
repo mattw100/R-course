@@ -1,5 +1,6 @@
 ---
 title: "my_First_report"
+author: "person b"
 format: html
 editor: visual
 embed-resources: true
